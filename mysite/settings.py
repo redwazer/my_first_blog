@@ -25,7 +25,7 @@ SECRET_KEY = '74mclpkl!=r8y1ia&-*^&m0=^l@($2gv$*i591)m%poyfnnxok'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "redwazer@pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "redwazer.pythonanywhere.com"]
 
 
 # Application definition
